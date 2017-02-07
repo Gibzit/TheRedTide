@@ -188,6 +188,30 @@ create_corps_commander = {
 	skill = 3
 }
 
+create_corps_commander = {
+	name = "Friedrich Paulus"
+	picture = "Portrait_Germany_Friedrich_Paulus.dds"
+	traits = { old_guard }
+	skill = 2
+	id = 3
+}
+
+create_corps_commander = {
+	name = "Wilhelm Adam"
+	picture = ""
+	traits = { }
+	skill = 2
+	id = 3
+}
+
+create_corps_commander = {
+	name = "Walther von Seydlitz-Kurzbach"
+	picture = ""
+	traits = { trickster }
+	skill = 1
+	id = 3
+}
+
 create_navy_leader = {
 	name = "Fritz Selbmann"
 		picture = ""
@@ -201,6 +225,8 @@ create_navy_leader = {
 	traits = { spotter }
 	skill = 2
 }
+
+
 
 
 
