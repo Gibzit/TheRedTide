@@ -212,6 +212,15 @@ create_corps_commander = {
 	id = 3
 }
 
+create_corps_commander = {
+	name = "Vincenz Müller"
+	picture = ""
+	traits = { }
+	skill = 2
+	id = 3
+}
+
+
 create_navy_leader = {
 	name = "Fritz Selbmann"
 		picture = ""
@@ -224,6 +233,21 @@ create_navy_leader = {
 		picture = ""
 	traits = { spotter }
 	skill = 2
+}
+
+
+create_navy_leader = {
+	name = "Waldemar Verner"
+		picture = ""
+	traits = { superior_tactician }
+	skill = 4
+}
+
+create_navy_leader = {
+	name = "Heinz Neukirchen"
+		picture = ""
+	traits = { }
+	skill = 1
 }
 
 
