@@ -19,6 +19,7 @@ state=
 			}
 		}
 		add_core_of = ROM
+		add_state_claim = SOV
 
 	}
 	provinces=
